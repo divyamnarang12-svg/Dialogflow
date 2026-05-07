@@ -75,13 +75,13 @@ No-code implementation suitable for student learning and demo projects
 
 ## 📸 Screenshots
 
-### 1. Google Form Interface
+### 1. Dialogflow
 
 ![Google Form](dialog_flow.png)
 
 ---
 
-### 2. Google Sheet Data Capture
+### 2. Dialog flow
 
 ![Google Sheet](dialogflow_screenshot.png)
 
